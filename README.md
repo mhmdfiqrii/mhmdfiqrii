@@ -29,7 +29,7 @@
   </div>  
 <!-- Social icons section -->
 
-## <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" width="30"><b>Lets' Connect</b>
+## <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" width="30"><b>Let's Connect</b>
 <p align="left">
    <a href="https://instagram.com/mhmdfiqriii_"><img width="32px" alt="Instagram" title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/640px-Instagram-Icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
