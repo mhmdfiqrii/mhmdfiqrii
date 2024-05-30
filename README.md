@@ -1,4 +1,4 @@
-<h2 align="center">Muhammad Fiqri is here🧑‍🔧<br>I'm from Indonesian🇮🇩</h2>
+<h2 align="center">Muhammad Fiqri is here</h2>
 
 ###
 
