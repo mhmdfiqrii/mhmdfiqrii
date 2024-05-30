@@ -10,16 +10,16 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
   <div>
-  <img align="left"src="https://github-readme-stats.vercel.app/api?username=permendodol&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=permendodol&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img align="left"src="https://github-readme-stats.vercel.app/api?username=mhmdfiqrii&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mhmdfiqrii&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Projects</b>
 <p><i>Glad to share some of my projects</i></p>
 
-[just-javascript](https://github.com/permendodol/just-javascript.git) A project where I only focus on javascript.
+[just-javascript](https://github.com/mhmdfiqrii/just-javascript.git) A project where I only focus on javascript.
 <br>
-[my-portofolio](https://permendodol.github.io/portofolio/) Its my portofolio, but still under development and it's not completely finished yet.
+[my-portofolio](https://mhmdfiqrii.github.io/portofolio/) Its my portofolio, but still under development and it's not completely finished yet.
 <br>
 <p><b>More projects soon....</b></p>
 <p></p>
