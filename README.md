@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=60&pause=300&color=EEE8AA&center=true&vCenter=true&multiline=true&width=500&height=200&weight=200&lines=mhmdfiqrii+)](https://git.io/typing-svg)<img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="250px" alt="GIF"  align-item="left"> 
+)<img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="250px" alt="GIF" align-item="centre"> 
 
 ## <img src="https://media1.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif?cid=ecf05e47bof9nb4fs7mz8ytcejm8rrwfogu7mhv4t9muvlcf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"><b> About Me </b>
 <p color=red>
