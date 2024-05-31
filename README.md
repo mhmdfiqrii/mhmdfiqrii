@@ -10,8 +10,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
   <div>
-  <img align="left"src="https://github-readme-stats.vercel.app/api?username=mhmdfiqrii&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mhmdfiqrii&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img align="left"src="https://github-readme-stats.vercel.app/api?username=mhmdfiqrii&count_private=true&show_icons=true&theme=calm&hide_border=true&bg_color=1F222E"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mhmdfiqrii&theme=calm&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Projects</b>
@@ -25,7 +25,7 @@
 <p></p>
 
 ## <img src="https://media0.giphy.com/media/l2Sq2zPVz6FLD6Z5S/giphy.gif?cid=ecf05e47neoggb5f814v1lgiq3pzhpwzp3r428h2pqgealjg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "30"><b> Languages</b>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdfiqrii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true" height="150" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdfiqrii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=calm&hide_border=true" height="150" alt="languages graph"  />
   </div>  
 <!-- Social icons section -->
 
