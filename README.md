@@ -1,4 +1,4 @@
-)<img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="250px" alt="GIF" align-item="centre"> 
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="250px" alt="GIF" align-item="centre"> 
 
 ## <img src="https://media1.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif?cid=ecf05e47bof9nb4fs7mz8ytcejm8rrwfogu7mhv4t9muvlcf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"><b> About Me </b>
 <p color=red>
